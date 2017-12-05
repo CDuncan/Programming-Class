@@ -1,0 +1,4 @@
+﻿  DistributionCentre.cpp
+c:\users\lalic\documents\coding\c++\repos\distributioncentre\distributioncentre\distributioncentre.cpp(51): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+c:\users\lalic\documents\coding\c++\repos\distributioncentre\distributioncentre\distributioncentre.cpp(34): warning C4101: 'listedSettlements': unreferenced local variable
+  DistributionCentre.vcxproj -> C:\Users\lalic\Documents\Coding\C++\repos\DistributionCentre\x64\Debug\DistributionCentre.exe

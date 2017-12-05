@@ -1,0 +1,4 @@
+﻿  distributionCentre_angle.cpp
+c:\users\lalic\documents\coding\c++\repos\distributioncentre_angle\distributioncentre_angle\distributioncentre_angle.cpp(101): warning C4018: '<': signed/unsigned mismatch
+c:\users\lalic\documents\coding\c++\repos\distributioncentre_angle\distributioncentre_angle\distributioncentre_angle.cpp(225): warning C4018: '<': signed/unsigned mismatch
+  distributionCentre_angle.vcxproj -> c:\users\lalic\Documents\Coding\C++\repos\distributionCentre_angle\Debug\distributionCentre_angle.exe

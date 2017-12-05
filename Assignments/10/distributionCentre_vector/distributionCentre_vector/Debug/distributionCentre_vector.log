@@ -1,0 +1,7 @@
+﻿  distributionCentre_vector.cpp
+c:\users\lalic\documents\coding\c++\repos\distributioncentre_vector\distributioncentre_vector\distributioncentre_vector.cpp(15): warning C4005: 'NAN': macro redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\corecrt_math.h(93): note: see previous definition of 'NAN'
+c:\users\lalic\documents\coding\c++\repos\distributioncentre_vector\distributioncentre_vector\distributioncentre_vector.cpp(89): warning C4018: '<': signed/unsigned mismatch
+c:\users\lalic\documents\coding\c++\repos\distributioncentre_vector\distributioncentre_vector\distributioncentre_vector.cpp(102): warning C4018: '<': signed/unsigned mismatch
+c:\users\lalic\documents\coding\c++\repos\distributioncentre_vector\distributioncentre_vector\distributioncentre_vector.cpp(179): warning C4018: '<': signed/unsigned mismatch
+  distributionCentre_vector.vcxproj -> C:\Users\lalic\Documents\Coding\C++\repos\distributionCentre_vector\Debug\distributionCentre_vector.exe
